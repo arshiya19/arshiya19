@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I am Arshiya Naheed!
-🔭 I’m currently pursuing Master's in Computer Science at California State University , chico.
+
+ 🔭 I’m currently pursuing Master's in Computer Science at California State University , chico.
 
 ![Arshiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshiya19&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
