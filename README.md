@@ -7,7 +7,7 @@ I am Arshiya Naheed!
 ![Arshiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshiya19&show_icons=true&theme=transparent)              
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshiya19&hide=contribs,prs)
 
 
 
