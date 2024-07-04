@@ -4,10 +4,7 @@ I am Arshiya Naheed!
 
  🔭 I’m currently pursuing Master's in Computer Science at California State University , chico.
 
-![Arshiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshiya19&show_icons=true&theme=transparent)              
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshiya19&hide=contribs,prs)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshiya19&show=prs_merged&hide=contribs,prs)
 
