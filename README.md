@@ -4,10 +4,14 @@ I am Arshiya Naheed!
 
  🔭 I’m currently pursuing Master's in Computer Science at California State University , chico.
 
-![Arshiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshiya19&show_icons=true&theme=transparent)              [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshiya19&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Arshiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshiya19&show_icons=true&theme=transparent)              
 
 
-**arshiya19/arshiya19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
+<-- **arshiya19/arshiya19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
