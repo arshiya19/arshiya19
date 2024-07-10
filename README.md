@@ -20,7 +20,7 @@ I am Arshiya Naheed!
 <br><be>
 
 <a href="https://www.linkedin.com/in/saicharanmodugula">
-  <img align="left" title="Arshiya Naheed" width="25px" src="./Assets/icons8-linkedin.svg" />
+  <img align="left" title="Arshiya Naheed" width="25px" src=".icons8-linkedin.svg" />
 </a>
 
 
