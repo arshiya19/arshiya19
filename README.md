@@ -13,7 +13,6 @@ I am Arshiya Naheed!
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=arshiya19&theme=Gradient&hide_border=true&background=9996A1">
   <br><br>
 </p>
-<br><br>
 <p align='center'>
 <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=arshiya19&color=red" />
 </a>
