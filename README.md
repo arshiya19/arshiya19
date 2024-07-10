@@ -14,11 +14,11 @@ I am Arshiya Naheed!
   <br><br>
 </p>
 <p align='center'>
-<a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=arshiya19&color=red" />
+<a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=arshiya19&color=red" /><img align="left" title="Arshiya Naheed" width="25px" src="./Assets/icons8-linkedin.svg" />
 </a>
 </p>
-<br><br>
-<br><br>
+<br><be>
+
 <a href="https://www.linkedin.com/in/saicharanmodugula">
   <img align="left" title="Arshiya Naheed" width="25px" src="./Assets/icons8-linkedin.svg" />
 </a>
