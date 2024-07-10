@@ -18,12 +18,15 @@ I am Arshiya Naheed!
 <br><br>
 <p align='center'>
 <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=arshiya19&color=333333" />
+ <a href="https://www.linkedin.com/in/saicharanmodugula">
+  <img align="left" title="Arshiya Naheed" width="25px" src="./Assets/icons8-linkedin.svg" />
+</a>
 </a>
 </p>
 <br><br>
 <br><br>
 <a href="https://www.linkedin.com/in/saicharanmodugula">
-  <img align="left" title="sai charan modugula" width="25px" src="./Assets/icons8-linkedin.svg" />
+  <img align="left" title="Arshiya Naheed" width="25px" src="./Assets/icons8-linkedin.svg" />
 </a>
 
 
