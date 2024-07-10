@@ -2,7 +2,7 @@
 
 I am Arshiya Naheed!
 
- 🔭 I’m currently pursuing Master's in Computer Science at California State University , chico.
+ 🔭 I’m a Graduate of Computer Science from California State University, chico.
 
 <a href="https://www.arshiyanaheed.dev">
  
