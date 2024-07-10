@@ -4,13 +4,6 @@ I am Arshiya Naheed!
 
  🔭 I’m currently pursuing Master's in Computer Science at California State University , chico.
 
-
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshiya19&show=prs_merged&hide=contribs,prs)        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshiya19&layout=compact)
-
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=arshiya19&theme=dark)](https://git.io/streak-stats)
-
-
-
    ![](https://komarev.com/ghpvc/?username=arshiya19&color=red)
 
 <a href="https://www.arshiyanaheed.dev">
@@ -24,26 +17,18 @@ I am Arshiya Naheed!
 </p>
 <br><br>
 <p align='center'>
-<a href="https://wakatime.com/@018e5add-6805-47b9-8082-374b0990351d"><img src="https://wakatime.com/badge/user/018e5add-6805-47b9-8082-374b0990351d.svg"/></a>
-<a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=charans29&color=333333" />
+<a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=arshiya19&color=333333" />
 </a>
 </p>
 <br><br>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charans29&row=2&column=4&theme=darkhub"/></a>
-<br><br>
-  <a href="https://www.buymeacoffee.com/charans"> <img align="center" src="./Assets/buy.svg" height="50" width="auto" title="coffee with charan" /></a>
-</div>
 <br><br>
 <a href="https://www.linkedin.com/in/saicharanmodugula">
   <img align="left" title="sai charan modugula" width="25px" src="./Assets/icons8-linkedin.svg" />
 </a>
-<a href="https://twitter.com/charans_twt">
-  <img align="right" title="@charans_twt" width="25px" src="./Assets/icons8-twitterx.svg" />
-</a>
+
 
 <!--
-**charans29/charans29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**arshiya19/arshiya19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
