@@ -21,21 +21,16 @@ I am Arshiya Naheed!
     <img height="200px "width="200px" title="website" src="./Assets/crazy.gif" />
   </h3>
 </div>
-<p align="center">
-  Exploring WEB 3.0 Ecosystem
-</p>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.saicharanmodugula.dev">
   <img width="30px" title="website" src="./Assets/icons8-website.png" />
 </a>
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=charans29&show_icons=true&count_private=true&theme=Gradient&hide_border=true&hide=issues,stars&show=prs_merged&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=charans29&layout=compact&hide_border=true&theme=Gradient&bg_color=00000000&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=arshiya19&show_icons=true&count_private=true&theme=Gradient&hide_border=true&hide=issues,stars&show=prs_merged&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiya19&layout=compact&hide_border=true&theme=Gradient&bg_color=00000000&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=charans29&theme=Gradient&hide_border=true&background=9996A1">
   <br><br>
-  <a href="https://leetcode.com/mscharans/" target="_blank">
-    <img title="charans29's LeetCode Stats" src ="https://leetcard.jacoblin.cool/mscharans?theme=dark&font=Ubuntu&ext=contest" />
-  </a>
 </p>
 <br><br>
 <p align='center'>
