@@ -4,10 +4,8 @@ I am Arshiya Naheed!
 
  🔭 I’m currently pursuing Master's in Computer Science at California State University , chico.
 
-   ![](https://komarev.com/ghpvc/?username=arshiya19&color=red)
-
 <a href="https://www.arshiyanaheed.dev">
-  
+ 
 </a>
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=arshiya19&show_icons=true&count_private=true&theme=Gradient&hide_border=true&hide=issues,stars&show=prs_merged&bg_color=00000000">
@@ -17,10 +15,7 @@ I am Arshiya Naheed!
 </p>
 <br><br>
 <p align='center'>
-<a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=arshiya19&color=333333" />
- <a href="https://www.linkedin.com/in/saicharanmodugula">
-  <img align="left" title="Arshiya Naheed" width="25px" src="./Assets/icons8-linkedin.svg" />
-</a>
+<a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=arshiya19&color=red" />
 </a>
 </p>
 <br><br>
